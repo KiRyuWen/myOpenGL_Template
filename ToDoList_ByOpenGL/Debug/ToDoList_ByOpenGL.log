@@ -1,0 +1,16 @@
+﻿  main.cpp
+C:\Users\User\OneDrive\桌面\ToDoList_ByOpenGL\Include\GLM\glm\detail\setup.hpp(27,1): warning C4005: 'GLM_MESSAGES': macro redefinition
+C:\Users\User\OneDrive\桌面\ToDoList_ByOpenGL\Include\ToInclude.h(19): message : see previous definition of 'GLM_MESSAGES'
+  GLM: GLM_SWIZZLE is deprecated, use GLM_FORCE_SWIZZLE instead.
+C:\Users\User\OneDrive\桌面\ToDoList_ByOpenGL\Source\main.cpp(57,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\User\OneDrive\桌面\ToDoList_ByOpenGL\Source\main.cpp(138,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\OneDrive\桌面\ToDoList_ByOpenGL\Source\main.cpp(139,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\User\OneDrive\桌面\ToDoList_ByOpenGL\Source\main.cpp(201,41): warning C4244: 'argument': conversion from 'float' to 'size_t', possible loss of data
+C:\Users\User\OneDrive\桌面\ToDoList_ByOpenGL\Source\main.cpp(207,35): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+C:\Users\User\OneDrive\桌面\ToDoList_ByOpenGL\Source\main.cpp(207,22): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+C:\Users\User\OneDrive\桌面\ToDoList_ByOpenGL\Source\main.cpp(208,67): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\User\OneDrive\桌面\ToDoList_ByOpenGL\Source\main.cpp(209,48): warning C4244: 'argument': conversion from 'float' to 'size_t', possible loss of data
+C:\Users\User\OneDrive\桌面\ToDoList_ByOpenGL\Source\main.cpp(237,86): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\OneDrive\桌面\ToDoList_ByOpenGL\Source\main.cpp(237,50): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\User\OneDrive\桌面\ToDoList_ByOpenGL\Source\main.cpp(237,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  ToDoList_ByOpenGL.vcxproj -> C:\Users\User\OneDrive\桌面\ToDoList_ByOpenGL\Debug\ToDoList_ByOpenGL.exe
