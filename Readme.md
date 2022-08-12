@@ -3,7 +3,7 @@
 
 1. $(SolutionDir) -> sln directory
 2. $(ProjectDir) -> xxx.vcxproj
-
+**3. Use x86!!!**
 # What I did
 1. Using vs 2019 to include library path
 2. Using .h to include glew,glm, freeglut, myOpenGLBase
